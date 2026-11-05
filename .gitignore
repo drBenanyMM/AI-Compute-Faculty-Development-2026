@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.key
+*.pem
+*.p12
+*.pfx
+private/
+confidential/
+raw-uploads/
+*.zip
